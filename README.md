@@ -8,3 +8,6 @@ La base tourne sur le dernier DLC GTAV ( 2545 )
 
 𝗟𝗶𝗮𝗶𝘀𝗼𝗻 𝗕𝗗𝗗 :
 Pour faire la liaison avec votre BDD il faut vous rendre dans le server.cfg -> ligne 4 -> et changer le "basetemplate" par le nom de votre BDD.
+
+𝗦𝘂𝗽𝗽𝗼𝗿𝘁 : 
+Pour toute assistance voici un lien discord : https://discord.gg/g3v469NANC
